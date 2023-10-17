@@ -45,13 +45,19 @@ pip install pandas streamlit easyocr mysql-connector-python opencv-python pillow
 ##2.Set up your MySQL database and configure the connection details in the code.
 Run the Streamlit application:
 
-##Usage
+## Usage
 Choose the "Upload & Extract" menu.
 Upload an image of a business card.
 The application will extract information from the card using OCR.
 You can view the extracted data, modify it, or delete it.
 Click "Upload to Database" to save the data into your MySQL database.
 
-##Acknowledgments
+## Acknowledgments
 Aravinth for creating this OCR application.
 The developers of Streamlit, EasyOCR, and other open-source libraries used in this project.
+
+### screenshots
+
+![WhatsApp Image 2023-10-17 at 3 06 20 PM](https://github.com/aravinthbalaiyan/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/144364538/e28ece48-beb6-4bf9-8f0a-3a4f0035d1ea)
+![WhatsApp Image 2023-10-17 at 3 06 02 PM](https://github.com/aravinthbalaiyan/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/144364538/85d5a507-6203-4707-b35c-0b657a75f8ca)
+![WhatsApp Image 2023-10-17 at 3 06 55 PM](https://github.com/aravinthbalaiyan/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/144364538/f99a9479-58e7-4d2a-8b74-01e048a9cf5a)
