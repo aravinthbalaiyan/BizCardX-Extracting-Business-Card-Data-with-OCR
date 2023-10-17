@@ -56,8 +56,8 @@ Click "Upload to Database" to save the data into your MySQL database.
 Aravinth for creating this OCR application.
 The developers of Streamlit, EasyOCR, and other open-source libraries used in this project.
 
-# screenshots
-
+# screenshots 
+     
 ## Upload an image file to extract data
 ![WhatsApp Image 2023-10-17 at 3 06 02 PM](https://github.com/aravinthbalaiyan/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/144364538/85d5a507-6203-4707-b35c-0b657a75f8ca)
 
